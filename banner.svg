@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-<title id="title">Ivar Alexander</title><desc id="desc">Software, historias e ideas.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171c35"/><stop offset="1" stop-color="#352c48"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b9b3fa"/><stop offset="1" stop-color="#f1b5ad"/></linearGradient></defs>
-<rect width="1200" height="280" rx="18" fill="url(#bg)"/>
-<circle cx="1014" cy="135" r="105" fill="none" stroke="#b9b3fa" stroke-opacity=".15"/><circle cx="1014" cy="135" r="72" fill="none" stroke="#f1b5ad" stroke-opacity=".22"/>
-<path d="M943 105c26-12 50-10 71 5v79c-21-15-45-17-71-5zm142 0c-26-12-50-10-71 5v79c21-15 45-17 71-5z" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linejoin="round"/>
-<path d="M960 129c14-3 28-1 40 5m-40 15c14-3 28-1 40 5m70-25c-14-3-28-1-40 5m40 15c-14-3-28-1-40 5" fill="none" stroke="#dfdcf9" stroke-opacity=".55" stroke-width="2" stroke-linecap="round"/>
-<rect x="70" y="58" width="58" height="4" rx="2" fill="url(#accent)"/>
-<text x="70" y="125" fill="#f7f5ff" font-family="Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="1">Ivar Alexander</text>
-<text x="72" y="164" fill="#d7d3e9" font-family="Arial, sans-serif" font-size="20" letter-spacing="3">SOFTWARE  ·  HISTORIAS  ·  IDEAS</text>
-<text x="72" y="223" fill="#a9a6bf" font-family="Arial, sans-serif" font-size="16">Construir para crear, leer y conectar.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Ivar Alexander — Full-stack developer</title><desc id="desc">TypeScript, React, Node.js, APIs y PostgreSQL.</desc>
+<rect width="1200" height="250" rx="12" fill="#0d1117"/><rect x="1" y="1" width="1198" height="248" rx="11" fill="none" stroke="#303b48"/>
+<path d="M0 50h1200" stroke="#25313c"/>
+<text x="54" y="33" fill="#8b9ba9" font-family="monospace" font-size="16">~/ivar-alexander</text>
+<text x="54" y="96" fill="#60e3ad" font-family="monospace" font-size="18">$ whoami</text>
+<text x="54" y="151" fill="#f0f6fc" font-family="monospace" font-size="42" font-weight="700">Ivar Alexander<tspan fill="#60e3ad">_</tspan></text>
+<text x="56" y="188" fill="#bdcbd8" font-family="monospace" font-size="19">Full-stack developer  /  APIs  /  integrations</text>
+<text x="56" y="222" fill="#8294a5" font-family="monospace" font-size="15">TypeScript  ·  React  ·  Node.js  ·  PostgreSQL</text>
+<g fill="none" stroke="#294b4d" stroke-width="1.5"><path d="M870 98h105l40 40h92M870 190h105l40-40h92"/><path d="M951 98v92M1054 98v92"/><rect x="918" y="112" width="169" height="64" rx="8" stroke="#406d69"/></g>
+<g fill="#60e3ad"><circle cx="870" cy="98" r="4"/><circle cx="870" cy="190" r="4"/><circle cx="1107" cy="138" r="4"/><circle cx="1107" cy="150" r="4"/></g>
+<text x="950" y="151" fill="#80d7be" font-family="monospace" font-size="22">&lt; / &gt;</text>
 </svg>

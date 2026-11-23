@@ -1,3 +1,5 @@
+![Ivar Alexander: software, historias e ideas](https://raw.githubusercontent.com/StephaniaBautista/StephaniaBautista/1db2ac626f1eb91f09007a4978c9c74f82a4780c/banner.svg)
+
 # Hola, soy Ivar Alexander.
 
 ### Desarrollo software para conectar ideas con experiencias útiles.
